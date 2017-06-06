@@ -1,1 +1,2 @@
-Art is not handsome
+Art is handsome
+ugly
